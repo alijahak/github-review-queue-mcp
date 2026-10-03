@@ -1,5 +1,7 @@
 # github-review-queue-mcp
 
+[![ci](https://github.com/alijahak/github-review-queue-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/alijahak/github-review-queue-mcp/actions/workflows/ci.yml)
+
 An MCP server for your GitHub review queue. From Claude, ChatGPT or any MCP client, you can find the pull requests waiting on you, read them, check CI, comment, and submit reviews.
 
 It runs two ways:
